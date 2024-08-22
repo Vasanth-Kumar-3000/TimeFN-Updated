@@ -1,2 +1,2 @@
 # Download Build
-[Download](https://discord.gg/YzpCypQyNw)
+[Download](https://github.com/Vasanth-Kumar-3000/TimeFN-Updated/releases/download/download/TimeFN.zip)
