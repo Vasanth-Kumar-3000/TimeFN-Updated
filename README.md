@@ -1,1 +1,2 @@
-# TimeFN-Updated
+# Download Build
+[Download](https://discord.gg/YzpCypQyNw)
